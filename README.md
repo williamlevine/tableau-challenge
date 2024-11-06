@@ -5,7 +5,7 @@
 ## Overview
 This repository contains the source files used to build a Tableau Story for Citi Bike in Jersey City, New Jersey. The completed Tableau Story visualizes data about total distance ridden by Citi Bike customers in January of 2024 and in July of 2024, and tracks what proportion of rides were taken by members and by non-members during these months. The Story also shows which stations were most frequented in each month, and features an interactive map of all stations with their popularity indicated by size of the marker. The months of January and July were chosen as representative of the winter and summer seasons.
 
-All source data is in the folder titled `Resources`, and the codebook used to clean the data is titled `cleaning.ipynb`.
+All source data is in the folder titled `Resources`, and the codebook used to clean the data is titled `cleaning.ipynb`. The cleaned data files put out by the code are in `.csv` format and can be found in the main repository.
 
 A link to the Tableau Public Workbook can be found above, and in the `.twbx` file in this repository.
 
